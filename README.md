@@ -1,3 +1,5 @@
+<img width="1440" height="680" alt="ChatApp Preview" src="https://github.com/user-attachments/assets/295a540e-7de9-4391-8d88-06efdddd80d8" />
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
